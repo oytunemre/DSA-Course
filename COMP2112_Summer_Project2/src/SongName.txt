@@ -1,0 +1,31 @@
+
+Livin' on the Edge;Aerosmith;1002;Rock;1993
+Enter Sandman;Metallica;1003;Metal;1993
+Highway to Glory;AC/DC;1004;Rock;1980
+Wasted Years;Iron Maiden;1005;Metal;1986
+Runaway Train;Soul Asylum;1006;Alternative;1992
+You Give Love a Bad Name;Bon Jovi;1007;Rock;1986
+Master of Puppets;Metallica;1008;Metal;1986
+Back in Black;AC/DC;1009;Rock;1980
+The Trooper;Iron Maiden;1010;Metal;1983
+Livin' on a Prayer;Bon Jovi;1011;Rock;1986
+Fuel;Metallica;1012;Metal;1997
+Thunderstruck;AC/DC;1013;Rock;1990
+The Number of the Beast;Iron Maiden;1014;Metal;1982
+Wanted Dead or Alive;Bon Jovi;1015;Rock;1986
+One;Metallica;1016;Metal;1988
+Shoot to Thrill;AC/DC;1017;Rock;1980
+Fear of the Dark;Iron Maiden;1018;Metal;1992
+It's My Life;Bon Jovi;1019;Rock;2000
+Nothing Else Matters;Metallica;1020;Metal;1991
+Hells Bells;AC/DC;1021;Rock;1980
+The Unforgiven;Metallica;1022;Metal;1991
+Livewire;AC/DC;1023;Rock;1976
+Run to the Hills;Iron Maiden;1024;Metal;1982 
+Bad Medicine;Bon Jovi;1025;Rock;1988
+Sad but True;Metallica;1026;Metal;1991
+For Those About to Rock;AC/DC;1027;Rock;1981
+Smells Like Teen Spirit;Nirvana;1028;Grunge;1991
+Born to Be My Baby;Bon Jovi;1029;Rock;1988
+Seek & Destroy;Metallica;1030;Metal;1983
+Aces High;Iron Maiden;1031;Metal;1984
